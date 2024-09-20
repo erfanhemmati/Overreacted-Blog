@@ -1,0 +1,13 @@
+.article h2 {
+  font-size: 40px;
+  line-height: 44px;
+}
+
+.article .date {
+  font-size: 13px;
+  margin-top: .5rem;
+}
+
+.article .body {
+  margin-top: 2.5rem;
+}

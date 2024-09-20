@@ -1,0 +1,22 @@
+.article {
+  padding: 1rem 0;
+  transition: transform .3s ease-in-out;
+}
+
+.article:hover {
+  transform: scale(1.005);
+}
+
+.article .title {
+  color: var(--pink);
+  font-size: 28px;
+  font-weight: 900;
+}
+
+.article .date {
+  font-size: 13px;
+}
+
+.article .body {
+  margin-top: .25rem;
+}
